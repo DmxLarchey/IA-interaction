@@ -60,7 +60,7 @@ Dans ce texte, l'auteur fait une analogie entre les banques, le profit et la qu�
 
 - **The Albatross** : L'albatros représente ici la Vérité (ou la conscience morale). C'est une référence directe au poème de Samuel Taylor Coleridge, The Rime of the Ancient Mariner, où le marin tue un albatros et est forcé de le porter autour du cou comme le symbole de sa malédiction et de sa culpabilité. Dans votre citation, la vérité est devenue l'albatros des banques : un fardeau encombrant dont elles essaient de se débarrasser car elle nuit aux affaires.
 
-- **La chute ("Those who really care about the truth don't have any money")** : C'est le constat moral doux-amer qui conclut la réflexion. Dans un système où l'argent s'obtient en vendant du rêve, des illusions ou en exploitant les autres, quiconque s'obstine à chercher, dire ou défendre la vérité (those who really care about the truth) finit par être marginalisé, exclu du système bancaire, et se retrouve sans un sou (don't have any money).
+- **La chute ("Those who really care about the truth don't have any money")** : C'est le constat moral doux-amer qui conclut la réflexion. Dans un système où l'argent s'obtient en vendant du rêve, des illusions ou en exploitant les autres, quiconque s'obstine à chercher, dire ou défendre la vérité (*those who really care about the truth*) finit par être marginalisé, exclu du système bancaire, et se retrouve sans un sou (*don't have any money*).
 
 **Où a-t-elle pu être lue ou entendue ?**
 
