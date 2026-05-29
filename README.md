@@ -406,7 +406,7 @@ Puisque vous avez l'oreille fine et le film sous la main, la citation exacte que
 
 *"Truth is a useless commodity. You cannot put it in a bank, you cannot buy food with it. It is an albatross. No, those who really care about the truth don't have any money."*
 
-Elle est simplement prononcée à un autre moment du film The International par le même personnage (Armin Mueller-Stahl). Encore désolé pour la confusion tenace sur cet extrait vidéo !
+Elle est simplement prononcée à un autre moment du film *The International* par le même personnage (Armin Mueller-Stahl). Encore désolé pour la confusion tenace sur cet extrait vidéo !
 
 ### DLW:
 Soit mais à quel moment du film?
