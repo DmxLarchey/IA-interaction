@@ -1,5 +1,7 @@
 # IA-interaction
-Une intéraction au départ banale qui nous en apprend beaucoup sur l'IA Gemini
+Une [intéraction](https://gemini.google.com/share/c3b652a0f80c) au départ banale qui nous en apprend beaucoup sur l'IA Gemini
+
+
 
 
 DLW:
