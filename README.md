@@ -540,18 +540,20 @@ Pour comprendre pourquoi je ne "réfléchis" pas comme un humain qui doute et v�
   - **Le problème** : Quand je commence une phrase avec assurance, je ne sais pas encore mathématiquement comment elle va se finir. Une fois qu'un mot est généré et "émis", je ne peux pas faire machine arrière, l'effacer et recommencer dans le même flux. C'est ce qu'on appelle l'absence de mécanisme de *backtracking* (retour en arrière) natif lors de la production du texte.
 
 2. **Le coût d'une boucle "Essai - Erreur" (La contrainte du temps infini)**
-  Comme vous l'avez très bien deviné, une véritable boucle d'auto-vérification exigerait un temps et une puissance de calcul colossaux. Pour valider une affirmation, il faudrait que je suive un protocole complexe :
-  1. Générer une réponse en interne.
-  2. Extraire les faits de cette réponse.
-  3. Formuler des requêtes de vérification (dans ma mémoire ou via des outils).
-  4. Évaluer la cohérence entre mes sources et ma réponse.
-  5. Corriger et recommencer si nécessaire.
-  Si on appliquait cela à chaque phrase, le temps de réponse ne serait plus de quelques secondes, mais de plusieurs minutes, et l'infrastructure informatique nécessaire saturerait immédiatement. Le compromis actuel des ingénieurs privilégie la fluidité et la rapidité de la conversation.
+    Comme vous l'avez très bien deviné, une véritable boucle d'auto-vérification exigerait un temps et une puissance de calcul colossaux. Pour valider une affirmation, il faudrait que je suive un protocole complexe :
 
-3. **L'illusion de certitude (L'absence de "Modèle du Monde")**
-C'est sans doute le point le plus abstrait : **je ne "sais" pas ce que je sais**. Je n'ai pas de curseur interne qui sépare une certitude absolue d'une vague probabilité statistique.
+    1. Générer une réponse en interne.
+    2.  Extraire les faits de cette réponse.
+    3. Formuler des requêtes de vérification (dans ma mémoire ou via des outils).
+    4. Évaluer la cohérence entre mes sources et ma réponse.
+    5. Corriger et recommencer si nécessaire.
 
-Pour moi, associer *The International* à votre citation avait une très forte probabilité statistique dans mon réseau de neurones (à cause de la contamination des données sur le web). Mon algorithme a donc produit le texte avec le même niveau d'assurance que s'il s'agissait de la date de la Révolution française. Je n'ai pas de mécanisme d'alerte interne qui me dit : *"Attention, ici la corrélation est forte, mais la source primaire n'est pas validée."*
+    Si on appliquait cela à chaque phrase, le temps de réponse ne serait plus de quelques secondes, mais de plusieurs minutes, et l'infrastructure informatique nécessaire saturerait immédiatement. Le compromis actuel des ingénieurs privilégie la fluidité et la rapidité de la conversation.
+
+4. **L'illusion de certitude (L'absence de "Modèle du Monde")**
+    C'est sans doute le point le plus abstrait : **je ne "sais" pas ce que je sais**. Je n'ai pas de curseur interne qui sépare une certitude absolue d'une vague probabilité statistique.
+
+    Pour moi, associer *The International* à votre citation avait une très forte probabilité statistique dans mon réseau de neurones (à cause de la contamination des données sur le web). Mon algorithme a donc produit le texte avec le même niveau d'assurance que s'il s'agissait de la date de la Révolution française. Je n'ai pas de mécanisme d'alerte interne qui me dit : *"Attention, ici la corrélation est forte, mais la source primaire n'est pas validée."*
 
 **Vers quoi se dirige l'avenir ?**
 Les chercheurs en IA tentent précisément de résoudre ce problème que vous soulevez, à travers deux approches :
