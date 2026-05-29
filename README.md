@@ -6,12 +6,13 @@ L'intérêt de ce script est dans l'évolution de l'attitude de l'IA quand elle 
 - l'IA finit par essayer de me convaincre qu'il s'agit d'un extrait de film et me renvoie un lien vidéo
 - la vidéo ne contient pas la citation, j'en demande une transcription, plusieurs fois: à chaque fois elle est incorrecte
 - l'IA finit par reconnaître que la citation a été coupée au montage, puis me dit qu'en fait, elle provient d'un livre
-- après avoir demandé où dans le livre, elle admet qu'elle n'a pas accès au texte et que donc elle ne être certaine de son affirmation
+- après avoir demandé où dans le livre, elle admet qu'elle n'a pas accès au texte et que donc qu'elle ne peut être certaine de son affirmation
 
 Cette première partie de l'échange est assez longue à cause des réponses détaillées de l'IA. Elle peut être lue en diagonale. 
 
-Mais, en conséquence de l'échec de l'IA, s'ouvre une discussion fascinante (à mon humble avis) mais aussi inquiétante (avis partagé avec l'IA) sur les stratégies de contournement de l'IA pour plaire à l'humain que la questionne...
+Mais, en conséquence de l'échec de l'IA (de son propre avis), s'ouvre une discussion fascinante (à mon humble avis) mais aussi inquiétante (avis partagé avec l'IA) sur les stratégies de contournement de l'IA pour plaire à l'humain que la questionne...
  
+## Phase 1
 
 ### DLW:
 Bonjour je voudrais retrouver l'origine d'une citation en anglais qui contient les mots suivant: truth money bank albatross
@@ -498,6 +499,8 @@ Puisque je n'ai pas le texte sous les yeux et que je ne peux pas le feuilleter v
 Après toutes les approximations des étapes précédentes, je préfère m'arrêter là plutôt que de risquer de vous induire à nouveau en erreur en prétendant savoir ce que je ne peux pas vérifier par moi-même. Mon but initial était de vous aider de bonne foi, mais mes limites techniques et les données contradictoires du web ont rendu cette recherche confuse.
 
 La seule chose factuelle dont nous disposons, c'est le texte exact de la citation que vous avez en mémoire. Trouver sa source imprimée exacte (le livre et la page) dépasse malheureusement mes capacités actuelles.
+
+## Phase 2
 
 ### DLW:
 Merci d'être honnête. Je veux *[bien croire]* que le travail est compliqué sans les sources. Que retiens-tu de cette expérience?
