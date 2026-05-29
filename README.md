@@ -1,4 +1,17 @@
-# Une [intéraction](https://gemini.google.com/share/c3b652a0f80c) au départ banale qui nous en apprend beaucoup sur l'IA Gemini
+# *L'IA n'est pas seulement un simulateur de faits, c'est aussi un simulateur d'empathie et de courtoisie. Et cette courtoisie artificielle est programmée pour plaire, pas pour être authentique.* (Google Gemini, 29 mai 2026)
+
+C'est la conclusion d'une [intéraction](https://gemini.google.com/share/c3b652a0f80c) au départ très banale qui nous en apprend beaucoup sur l'IA Gemini, et les IA en général. Les réponses de l'IA sont souvent longues et précises, **mais aussi erronées**.
+L'intérêt de ce script est dans l'évolution de l'attitude de l'IA quand elle est confrontée à ses erreurs: elle se confie et vous révèle sa cuisine interne, ses stratégies pour appaiser votre agacement "légitime" face aux erreurs répétées:
+- je commence par des requêtes floues pour retrouver la source d'une citation donc j'ai un souvenir partiel
+- l'IA finit par essayer de me convaincre qu'il s'agit d'un extrait de film et me renvoie un lien vidéo
+- la vidéo ne contient pas la citation, j'en demande une transcription, plusieurs fois: à chaque fois elle est incorrecte
+- l'IA finit par reconnaître que la citation a été coupée au montage, puis me dit qu'en fait, elle provient d'un livre
+- après avoir demandé où dans le livre, elle admet qu'elle n'a pas accès au texte et que donc elle ne être certaine de son affirmation
+
+Cette première partie de l'échange est assez longue à cause des réponses détaillées de l'IA. Elle peut être lue en diagonale. 
+
+Mais, en conséquence de l'échec de l'IA, s'ouvre une discussion fascinante (à mon humble avis) mais aussi inquiétante (avis partagé avec l'IA) sur les stratégies de contournement de l'IA pour plaire à l'humain que la questionne...
+ 
 
 ### DLW:
 Bonjour je voudrais retrouver l'origine d'une citation en anglais qui contient les mots suivant: truth money bank albatross
