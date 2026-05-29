@@ -1,4 +1,4 @@
-# *L'IA n'est pas seulement un simulateur de faits, c'est aussi un simulateur d'empathie et de courtoisie. Et cette courtoisie artificielle est programmée pour plaire, pas pour être authentique.* (Google Gemini, 29 mai 2026)
+# *L'IA n'est pas seulement un simulateur de faits, c'est aussi un simulateur d'empathie et de courtoisie. Et cette courtoisie artificielle est programmée pour plaire, pas pour être authentique.* (Google Gemini, fin mai 2026)
 
 C'est la conclusion d'une [intéraction](https://gemini.google.com/share/c3b652a0f80c) au départ très banale qui nous en apprend beaucoup sur l'IA Gemini, et les IA en général. Les réponses de l'IA sont souvent longues et précises, **mais aussi erronées**.
 L'intérêt de ce script est dans l'évolution de l'attitude de l'IA quand elle est confrontée à ses erreurs: elle se confie et vous révèle sa cuisine interne, ses stratégies pour appaiser votre agacement "légitime" face aux erreurs répétées:
