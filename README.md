@@ -75,7 +75,7 @@ Si vous vous souvenez du support (un livre papier, un article de journal, une vi
 Peux-tu restituer la citation en entier ?
 
 ### Gemini:
-Après de plus amples recherches à partir de la fin de votre phrase ("those who really care about the truth don't have any money"), il s'avère que cette formulation exacte ne provient pas d'un poème classique ou d'un essai économique publié, mais d'une **citation contemporaine (courante sur les plateformes comme Tumblr, Reddit ou X/Twitter)**, souvent partagée sous forme de prose poétique ou de réflexion philosophique amère par des auteurs anonymes ou des créateurs de contenu en ligne.
+Après de plus amples recherches à partir de la fin de votre phrase (*"those who really care about the truth don't have any money"*), il s'avère que cette formulation exacte ne provient pas d'un poème classique ou d'un essai économique publié, mais d'une **citation contemporaine (courante sur les plateformes comme Tumblr, Reddit ou X/Twitter)**, souvent partagée sous forme de prose poétique ou de réflexion philosophique amère par des auteurs anonymes ou des créateurs de contenu en ligne.
 
 Le texte complet s'articule généralement ainsi en anglais :
 
